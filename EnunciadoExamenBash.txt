@@ -1,0 +1,11 @@
+1.	Crea una carpeta en tu directorio home llamada exam (/home/usuario/exam).
+2.	Entra en la carpeta.
+3.	Crea un archivo llamado si.txt en el que figuren todas las matrículas de SI que hay en Alumnos.txt.
+4.	Crea una carpeta llamada si dentro de la carpeta donde te encuentras (estás en la carpeta exam)
+5.	Sin entrar en la carpeta si, mueve el archivo si.txt a la carpeta si.
+6.	Haz que salga por pantalla información relativa al alumno (columna 1) y módulos matriculados (columna 4) separados por –
+7.	Haz que salga por pantalla el número de matrículas que ha tenido el módulo de SI.
+8.	Sustituye el nombre del alumno Cinco por Pepe en el archivo Alumnos.txt
+9.	Muestre las líneas correspondientes a la década del 2010, o sea del 2010 al 2019 ambos inclusive.
+10.	Muestra el nombre de los alumnos que empiezan por S
+11.	El comando du -hs * nos va a mostrar los 10 directorios de nuestro home, más pesados. Investiga un poco sobre este comando. Haz que salga por pantalla el top 3 de los directorios más pesados de tu home.
