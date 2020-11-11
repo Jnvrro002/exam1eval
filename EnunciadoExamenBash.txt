@@ -1,3 +1,5 @@
+Jorge Navarro Herrero
+
 1.	Crea una carpeta en tu directorio home llamada exam (/home/usuario/exam).
 2.	Entra en la carpeta.
 3.	Crea un archivo llamado si.txt en el que figuren todas las matrículas de SI que hay en Alumnos.txt.
